@@ -149,7 +149,7 @@ padding: 4em 0em;
     margin-top: 0;
     font-size: 1.9em;
     color:#55C1E5;
-    padding:1em 0em;
+    padding:0em 0em;
     font-weight: 600;
 }
 
@@ -159,9 +159,19 @@ padding: 4em 0em;
     padding: 0.5em 0em;
     line-height: 1.7em;
 }
+.timeline-label h3 {
+    font-size: 1.6em;
+    color:#696969;
+    padding: 0.5em 0em;
+    line-height: 1.7em
+		font-weight: 500;
+}
+.timeline-label bold {
+		font-weight: bold;
+}
 .timeline-label
 {
-	padding: 6em 0em;
+	padding: 0em 0em;
 }
 .timeline .experience {
     position: relative;
@@ -329,7 +339,7 @@ textarea
 {
 	height: 150px;
 	resize: none;
-	
+
 }
 .right-form{
 	float:right;
@@ -776,7 +786,7 @@ textarea
 	.timeline-label p ,.group_1_text p,.para,.timeline .experience-info p,.right-form p{
 	font-size: 0.9em;
 	}
-	
+
 	.header {
 	padding: 0.5em 0em;
 	}
@@ -811,7 +821,7 @@ textarea
 	padding: 0.4em 1.5em;
 	font-size: 0.9em;
 	}
-	
+
 	.send {
 	text-align: center;
 	}
@@ -899,5 +909,5 @@ textarea
 	ul.slimmenu li .sub-collapser {
 	top: 5px;
 	}
-	
+
 }
