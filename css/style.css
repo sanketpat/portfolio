@@ -483,7 +483,7 @@ textarea
 .widget h4 {
 	margin-top: 0;
 	color: #CCC;
-	font-size: 1.5em;
+	font-size: 6em;
 	font-weight: 600;
 }
 .plain li
@@ -491,7 +491,7 @@ textarea
 	margin: 10px 0px;
 }
 .footer a ,.footer p{
-	color: #545766;
+	color: #ffffff;
 	text-decoration: none;
 	font-size: 1.3em;
 	-webkit-transition: all 0.3s ease-in-out;
