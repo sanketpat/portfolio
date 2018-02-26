@@ -22,7 +22,7 @@
     }
     #bloc1, #bloc2
     {
-      padding: 10px;
+      padding: 2px;
       display:inline;
     }
 
@@ -147,7 +147,7 @@
 }
 /*****/
 .group_2 {
-	padding: 5em 0em 1em 0em;
+	padding: 2em 0em 1em 0em;
 }
 .group_2_img1
 {
@@ -159,15 +159,15 @@
 }
 .group_2_items
 {
-	padding-top: 5em;
+	padding-top: 2em;
 }
 .desc
 {
-	padding: 0.7em 0em;
+	padding: 0.0em 0em;
 }
 .group_2_text2
 {
-	padding: 3em 0em;
+	padding: 0em 0em;
 	float: right;
 	width:25%;
 }
@@ -356,7 +356,7 @@
 	overflow: hidden;
 	position: relative;
 	width: 100%;
-	padding: 1.2em 0em;
+	padding: 0em 0em;
 }
 .owl-carousel .owl-wrapper-outer.autoHeight{
 	-webkit-transition: height 500ms ease-in-out;

@@ -281,7 +281,7 @@ padding: 2em 0em;
 padding: 2% 0%;
 }
 .column.six, .column.half, .column.threesixths, .column.twofourths {
-width: 40%;
+width: 43%;
 }
 .column {
 margin-left: 0;
@@ -291,9 +291,6 @@ margin-right: 3.8%;
 clear: none;
 float: left;
 min-height: 1px;
-}
-.column.six, .column.half, .column.threesixths, .column.twofourths {
-width: 48%;
 }
 .column.last, .column.reset {
 margin-right: 0 !important;
@@ -308,7 +305,7 @@ margin-bottom: 1.34em;
 }
 .brows_button_4
 {
-	margin: 3em 0em;
+	margin: 1em 0em;
 }
 /*******/
 .contact {
