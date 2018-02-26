@@ -32,7 +32,7 @@ body {
 	width:80%;
 }
 /*****/
-.content
+.header-bg
 {
 	background: url(../images/slider.jpg) no-repeat;
 	background-size: 100%;
@@ -244,6 +244,38 @@ padding: 2em 0em;
 .timeline .experience-info {
     margin-left: 5.444em;
 }
+
+/* Education*/
+.education-info {
+    font-size: 14px;
+    line-height: 24px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    align-items: center;
+}
+
+.education-info h3 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+    margin-bottom: 20px
+}
+
+.education-info h5,
+.education-info h6 {
+    text-align: center;
+  margin-top: 10px;
+    font-size: 16px;
+    line-height: 21px;
+}
+.education-info .img-responsive {
+    margin: 0 auto;
+}
+.education-info h6 {
+  text-align: center;
+    margin-bottom: 20px;
+}
+
 /*****/
 .row-content2 {
 padding: 2% 0%;
