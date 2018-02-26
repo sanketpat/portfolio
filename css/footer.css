@@ -29,12 +29,13 @@
 
 .footer-distributed h3{
 	color:#E1E1E1;
-	border-bottom: 3.5px solid #E1E1E1;
+	border-bottom: 2.5px solid #E1E1E1;
 	width: 110px;
 vertical-align: middle;
 	font-size: 1.5em;
 	text-transform: uppercase;
 display: inline-block;
+padding-bottom: 10px;
 
 
 }
